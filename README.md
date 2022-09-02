@@ -1,6 +1,7 @@
 # MFO-by-matlab
 
-Multi-fan optimization framework by Matlab and ANSYS CFX
+Multi-fan optimization framework by Matlab and ANSYS CFX,
+"Rapid, concurrent and optimal method for the design of multi-fan using CFD and surrogate-assisted optimization"
 
 10 fans optimization is taken as example.
 
