@@ -152,21 +152,7 @@ while(1)
             new_offspring_c(i,2:p)=y00_d(1,:);
         end
         
-        %     for i=1:size(new_offspring,1)
-        %         dis_new_father=10000;
-        %         for j=1:size(father,1)
-        %             if max(father(j,1:11)-new_offspring(i,:))<dis_new_father
-        %                 dis_new_father=max(father(j,1:11)-new_offspring(i,:));
-        %             end
-        %         end
-        %         if dis_new_father<0.001
-        %             new_offspring(i,:)=rand(1,size(new_offspring,2));
-        %         end
-        %     end
-        
-        %%
-        %initial_design & parametrization
-        
+       
         for i2=1:4
             
             if i2==1
